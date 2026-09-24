@@ -14,9 +14,9 @@
 
 ## Want to learn more or chat with us?
 
-![Website](https://img.shields.io/badge/Website-geomatrix.dev-2563eb)
-![X](https://img.shields.io/badge/X-@GeoMatrix__Dev-000000?logo=x&logoColor=white)
-![Email](https://img.shields.io/badge/Email-contact%40geomatrix.dev-EA4335)
+[![Website](https://img.shields.io/badge/Website-geomatrix.dev-2563eb)](https://geomatrix.dev)
+[![X](https://img.shields.io/badge/X-@GeoMatrix__Dev-000000?logo=x&logoColor=white)](https://x.com/GeoMatrix_Dev)
+[![Email](https://img.shields.io/badge/Email-contact%40geomatrix.dev-EA4335)](mailto:contact@geomatrix.dev)
 
 
 
