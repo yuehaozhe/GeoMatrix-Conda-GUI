@@ -24,7 +24,7 @@
 
 
 <!-- Changelog -->
-**Latest release notes:** [0.3.2-beta.3](Log/beta/0.3.2-beta.3.md)
+**Latest release notes:** [0.4.0-beta.1](Log/beta/0.4.0-beta.1.md)
 
 
 
@@ -144,9 +144,9 @@ We have launched a free beta test, and we invite everyone to download and try it
 
 | Platform | Architecture             | Get started                                                                                                                                        |
 | -------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | x64                      | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.2-beta.3/windows-x86_64/GeoMatrix_0.3.2-beta.3_x64-setup.exe)                           |
-| macOS    | Apple Silicon (M series) | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.2-beta.3/darwin-aarch64/GeoMatrix_0.3.2-beta.3_aarch64.dmg)                             |
-| macOS    | Intel                    | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.2-beta.3/darwin-x86_64/GeoMatrix_0.3.2-beta.3_x64.dmg) |
+| Windows  | x64                      | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.4.0-beta.1/windows-x86_64/GeoMatrix_0.4.0-beta.1_x64-setup.exe)                           |
+| macOS    | Apple Silicon (M series) | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.4.0-beta.1/darwin-aarch64/GeoMatrix_0.4.0-beta.1_aarch64.dmg)                             |
+| macOS    | Intel                    | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.4.0-beta.1/darwin-x86_64/GeoMatrix_0.4.0-beta.1_x64.dmg) |
 
 
 
